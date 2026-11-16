@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/actual-budget-1?utm_medium=integration&utm_source=button&utm_campaign=actual-budget)
+
 # Actual Budget on Railway
 
 This repo builds the [Actual Budget](https://actualbudget.org) sync server for a one-click Railway template.
